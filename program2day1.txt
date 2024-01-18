@@ -1,0 +1,21 @@
+using System;
+
+class Squaring{
+int number;
+public void GetSquareOfNumber(){
+    Console.WriteLine("Enter a number");
+    number = Convert.ToInt32(Console.ReadLine());
+}
+
+public void PrintSquareOfNumber(){
+    Console.WriteLine($"square is {number * number}");
+}
+}
+
+class Obj{
+    static void Main(){
+Squaring s1 = new Squaring();
+s1.GetSquareOfNumber();
+s1.PrintSquareOfNumber();
+}
+}

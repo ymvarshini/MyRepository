@@ -1,0 +1,2 @@
+C:\c#\day2\functions\function\obj\Debug\function.csproj.AssemblyReference.cache
+C:\c#\day2\functions\function\obj\Debug\function.csproj.CoreCompileInputs.cache
